@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimbika-ganapathy&show_icons=true&locale=en" alt="bimbika-ganapathy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimbika-ganapathy&" alt="bimbika-ganapathy" /></p>
+![Visitor](https://tracer-0ct6.onrender.com/track.png)
